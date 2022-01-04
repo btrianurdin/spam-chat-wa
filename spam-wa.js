@@ -21,3 +21,9 @@ function runSpam(msg, interval) {
     spamFunction();
   }, interval);
 }
+
+function stopSpam() {
+  if (_run !== null) {
+    clearInterval(_run);
+  }
+}
