@@ -9,14 +9,14 @@
 - Paste script there and click enter
 - Next, follow the command bellow
 
-**RUN SPAM:**
+**RUN SPAM:** </br>
 Copy the script bellow and paste in the **Console**
 ```
 runSpam("your message", timeinterval)
 ```
 *note: timeinterval is calculated in milisecond*
 
-**STOP SPAM:**
+**STOP SPAM:** </br>
 Copy the script bellow and paste in the **Console**
 ```
 stopSpam()
